@@ -1,1 +1,3 @@
-
+Why linked list?
+  - Size of array fixed
+  - Insertion of a new element / Deletion of a existing element in an array of elements is expensive
