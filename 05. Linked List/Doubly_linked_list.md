@@ -149,3 +149,7 @@ void reverse(Node** head_ref)
         *head_ref = temp->prev;
 }
 ```
+# Important problems:
+1. https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/
+2. https://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4/
+3. https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/
